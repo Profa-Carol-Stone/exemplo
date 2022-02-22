@@ -41,7 +41,7 @@
         </article>
   	</section>
   	<footer>
-  		<p>Copyright © 2021</p>
+  		<p>Copyright © 2022</p>
   	</footer>
   </body>
  </html>
